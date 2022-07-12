@@ -1,1 +1,2 @@
-# 3DViewSimpleGeometry_QT
+# opengl + qt + c++
+Zero C++ Knowladgev
